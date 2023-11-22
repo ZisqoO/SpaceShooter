@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760b12dba4fb726478317dba205d103e, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 2686333735943334043, guid: b5768c8f44103b14ca90808c28321c9f, type: 3}
+  bulletPrefab: {fileID: 370321564726010126, guid: 1cb1e5360c4f21548aa0ca4ad520e9a1, type: 3}
+  explosionPrefab: {fileID: 886519874320410941, guid: 03ec960fd944c8441bb104da21045fc3, type: 3}
+  health: 10
+  damage: 10
+  enemyTypeNo: 1
+  scorePoint: 10
+  barFillAmount: 0.1
