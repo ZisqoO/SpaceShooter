@@ -1,6 +1,6 @@
 # Space Shooter Game
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshots/screenshot.png)
 
 This is a simple space shooter game developed using Unity. Players earn points by destroying enemy ships.
 
